@@ -6,6 +6,10 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
+## Visualización
+
+En https://zingy-monstera-5d662c.netlify.app/
+
 ## Tecnologías
 
 Esta página web fue creada con:
